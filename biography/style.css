@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color:whitesmoke;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     
+    }
+
+header{
+    background-color: rgba(236, 189, 122, 0.822);
+}
+
+footer{
+    text-align: center;
+    
+}
+nav{
+    text-align: end;
+    
+}
+a{
+    color: black;
+}
+main{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.content{
+    width:80%;
+    margin-top: 40px;
+
+}
+
+
+img {
+     
+width: 400px;
+height: 250px;
+justify-content:center;
+    }
+
+    .quote{
+        width:20%;
+        padding-right: 200px;
+        padding-left: 100px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
